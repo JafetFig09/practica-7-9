@@ -1,0 +1,14 @@
+C:\Users\jafet\Desktop\practicas7-9\practicas7-9\bin\Debug\net6.0\practicas7-9.exe
+C:\Users\jafet\Desktop\practicas7-9\practicas7-9\bin\Debug\net6.0\practicas7-9.deps.json
+C:\Users\jafet\Desktop\practicas7-9\practicas7-9\bin\Debug\net6.0\practicas7-9.runtimeconfig.json
+C:\Users\jafet\Desktop\practicas7-9\practicas7-9\bin\Debug\net6.0\practicas7-9.dll
+C:\Users\jafet\Desktop\practicas7-9\practicas7-9\bin\Debug\net6.0\practicas7-9.pdb
+C:\Users\jafet\Desktop\practicas7-9\practicas7-9\obj\Debug\net6.0\practicas7-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafet\Desktop\practicas7-9\practicas7-9\obj\Debug\net6.0\practicas7-9.AssemblyInfoInputs.cache
+C:\Users\jafet\Desktop\practicas7-9\practicas7-9\obj\Debug\net6.0\practicas7-9.AssemblyInfo.cs
+C:\Users\jafet\Desktop\practicas7-9\practicas7-9\obj\Debug\net6.0\practicas7-9.csproj.CoreCompileInputs.cache
+C:\Users\jafet\Desktop\practicas7-9\practicas7-9\obj\Debug\net6.0\practicas7-9.dll
+C:\Users\jafet\Desktop\practicas7-9\practicas7-9\obj\Debug\net6.0\refint\practicas7-9.dll
+C:\Users\jafet\Desktop\practicas7-9\practicas7-9\obj\Debug\net6.0\practicas7-9.pdb
+C:\Users\jafet\Desktop\practicas7-9\practicas7-9\obj\Debug\net6.0\practicas7-9.genruntimeconfig.cache
+C:\Users\jafet\Desktop\practicas7-9\practicas7-9\obj\Debug\net6.0\ref\practicas7-9.dll
